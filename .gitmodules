@@ -1,0 +1,12 @@
+[submodule "Loader"]
+	path = Loader
+	url = https://github.com/TaniaAlvarezDiaz/Loader
+[submodule "Agents"]
+	path = Agents
+	url = https://github.com/TaniaAlvarezDiaz/Agents
+[submodule "InciManager"]
+	path = InciManager
+	url = https://github.com/TaniaAlvarezDiaz/InciManager
+[submodule "InciDashboard"]
+	path = InciDashboard
+	url = https://github.com/TaniaAlvarezDiaz/InciDashboard
