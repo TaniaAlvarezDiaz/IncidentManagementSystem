@@ -34,13 +34,16 @@ Para ejecutar el proyecto seguir los siguientes pasos:
    * Ir a la carpeta "bin"
    * Pulsar doble click sobre "runServer.bat"
 
-5. Desde la carpeta InciManager ejecutar:
+5. Desde la carpeta Agents ejecutar:
    * mvn spring-boot:run
 
-6. Desde la carpeta InciDashboard ejecutar:
+6. Desde la carpeta InciManager ejecutar:
+   * mvn spring-boot:run
+
+7. Desde la carpeta InciDashboard ejecutar:
    * mvn spring-boot:run
    
-7. Desde un navegador acceder a:
+8. Desde un navegador acceder a:
    * http://localhost:8091 para acceder al InciManager
    * http://localhost:8092 para acceder al InciDashboard
 
