@@ -45,5 +45,11 @@ Para ejecutar el proyecto seguir los siguientes pasos:
    
 8. Desde un navegador acceder a:
    * http://localhost:8091 para acceder al InciManager
+     * Los datos de un agente son:
+       Username: 09847581T
+       Password: 123456789
    * http://localhost:8092 para acceder al InciDashboard
+     * Los datos de un operador son:
+       Username: 09847158T
+       Password: 1234
 
