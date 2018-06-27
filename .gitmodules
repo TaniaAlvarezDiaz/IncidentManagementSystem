@@ -10,3 +10,6 @@
 [submodule "InciDashboard"]
 	path = InciDashboard
 	url = https://github.com/TaniaAlvarezDiaz/InciDashboard
+[submodule "BaseDeDatos"]
+	path = BaseDeDatos
+	url = https://github.com/TaniaAlvarezDiaz/BaseDeDatos.git
